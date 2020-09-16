@@ -16,7 +16,7 @@
 	<description>Projeto da Semana Dev Superior 1.0</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>14</java.version>
 	</properties>
 
 	<dependencies>
