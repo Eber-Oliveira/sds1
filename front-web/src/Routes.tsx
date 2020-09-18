@@ -12,7 +12,7 @@ const Routes = () => (
                 <Home />
             </Route>
 
-            <Route path="records">
+            <Route path="/records">
               <Records />
             </Route>
 
