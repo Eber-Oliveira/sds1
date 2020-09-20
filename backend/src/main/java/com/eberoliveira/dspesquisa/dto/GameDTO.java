@@ -38,7 +38,7 @@ public class GameDTO implements Serializable{
 		this.title = title;
 	}
 
-	public Platform getPlatfomr() {
+	public Platform getPlatform() {
 		return platform;
 	}
 

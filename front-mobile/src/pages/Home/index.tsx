@@ -22,7 +22,7 @@ const Home = () => {
                     style={styles.gamerImage}
                 />
             <Text style={styles.title}>Vote Agora!</Text>
-            <Text style={styles.subTitle}>Nos diga qual é seu jogo favorito!</Text>
+            <Text style={styles.subTitle}>Me chama de corrupto porra!</Text>
         </View>
         <View style={styles.footer}>
             <RectButton style={styles.button} onPress={handleOnPress}>
@@ -43,7 +43,7 @@ const Home = () => {
 
 const styles = StyleSheet.create({
     container: {
-      marginTop:  '15%',
+      marginTop:  '4%',
       backgroundColor: '#0B1F34',
       alignItems: 'center',
     },
